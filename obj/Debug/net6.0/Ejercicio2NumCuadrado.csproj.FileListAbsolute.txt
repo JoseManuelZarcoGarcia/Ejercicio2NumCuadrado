@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\bin\Debug\net6.0\Ejercicio2NumCuadrado.exe
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\bin\Debug\net6.0\Ejercicio2NumCuadrado.deps.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\bin\Debug\net6.0\Ejercicio2NumCuadrado.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\bin\Debug\net6.0\Ejercicio2NumCuadrado.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\bin\Debug\net6.0\Ejercicio2NumCuadrado.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\obj\Debug\net6.0\Ejercicio2NumCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\obj\Debug\net6.0\Ejercicio2NumCuadrado.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\obj\Debug\net6.0\Ejercicio2NumCuadrado.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\obj\Debug\net6.0\Ejercicio2NumCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\obj\Debug\net6.0\Ejercicio2NumCuadrado.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\obj\Debug\net6.0\refint\Ejercicio2NumCuadrado.dll
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\obj\Debug\net6.0\Ejercicio2NumCuadrado.pdb
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\obj\Debug\net6.0\Ejercicio2NumCuadrado.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\Ejercicio2NumCuadrado\obj\Debug\net6.0\ref\Ejercicio2NumCuadrado.dll
